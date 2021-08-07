@@ -1,6 +1,11 @@
 # push_notification_test
 
-A new Flutter project.
+![74348C44-A3DE-4E4D-B21E-09430FAE26A8](https://user-images.githubusercontent.com/73986840/128587409-7bebc8fe-16ce-47d8-b11b-e72c5c4747e2.png)
+
+
+## 参考
+【記事】Firebase編7:Cloud Messaging<br>
+【リンク】https://zenn.dev/kazutxt/books/flutter_practice_introduction/viewer/firebase_fcm<br>
 
 ## Getting Started
 
